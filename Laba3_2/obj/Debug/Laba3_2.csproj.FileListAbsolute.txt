@@ -1,0 +1,24 @@
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\Laba3_2\bin\Debug\Laba3_2.exe.config
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\Laba3_2\bin\Debug\Laba3_2.exe
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\Laba3_2\bin\Debug\Laba3_2.pdb
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\Laba3_2\obj\Debug\Laba3_2.csprojAssemblyReference.cache
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\Laba3_2\obj\Debug\Laba3_2.CalculateForm.resources
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\Laba3_2\obj\Debug\Laba3_2.Properties.Resources.resources
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\Laba3_2\obj\Debug\Laba3_2.MainForm.resources
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\Laba3_2\obj\Debug\Laba3_2.csproj.GenerateResource.cache
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\Laba3_2\obj\Debug\Laba3_2.csproj.CoreCompileInputs.cache
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\Laba3_2\obj\Debug\Laba3_2.exe
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\Laba3_2\obj\Debug\Laba3_2.pdb
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\Laba3_2\obj\Debug\Laba3_2.ConstructForm.resources
+C:\Users\Admin\Downloads\12,13\Laba3_2\bin\Debug\Laba3_2.exe.config
+C:\Users\Admin\Downloads\12,13\Laba3_2\bin\Debug\Laba3_2.exe
+C:\Users\Admin\Downloads\12,13\Laba3_2\bin\Debug\Laba3_2.pdb
+C:\Users\Admin\Downloads\12,13\Laba3_2\obj\Debug\Laba3_2.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\12,13\Laba3_2\obj\Debug\Laba3_2.CalculateForm.resources
+C:\Users\Admin\Downloads\12,13\Laba3_2\obj\Debug\Laba3_2.ConstructForm.resources
+C:\Users\Admin\Downloads\12,13\Laba3_2\obj\Debug\Laba3_2.Properties.Resources.resources
+C:\Users\Admin\Downloads\12,13\Laba3_2\obj\Debug\Laba3_2.MainForm.resources
+C:\Users\Admin\Downloads\12,13\Laba3_2\obj\Debug\Laba3_2.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\12,13\Laba3_2\obj\Debug\Laba3_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\12,13\Laba3_2\obj\Debug\Laba3_2.exe
+C:\Users\Admin\Downloads\12,13\Laba3_2\obj\Debug\Laba3_2.pdb

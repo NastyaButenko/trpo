@@ -1,0 +1,28 @@
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\labRab3_3\bin\Debug\labRab3_3.exe.config
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\labRab3_3\bin\Debug\labRab3_3.exe
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\labRab3_3\bin\Debug\labRab3_3.pdb
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\labRab3_3\obj\Debug\labRab3_3.csprojAssemblyReference.cache
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\labRab3_3\obj\Debug\labRab3_3.AddBook.resources
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\labRab3_3\obj\Debug\labRab3_3.AllBooks.resources
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\labRab3_3\obj\Debug\labRab3_3.MainForm.resources
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\labRab3_3\obj\Debug\labRab3_3.Properties.Resources.resources
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\labRab3_3\obj\Debug\labRab3_3.csproj.GenerateResource.cache
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\labRab3_3\obj\Debug\labRab3_3.csproj.CoreCompileInputs.cache
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\labRab3_3\obj\Debug\labRab3_3.exe
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\labRab3_3\obj\Debug\labRab3_3.pdb
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\labRab3_3\obj\Debug\labRab3_3.Find1.resources
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\labRab3_3\obj\Debug\labRab3_3.Find2.resources
+C:\Users\Admin\Downloads\12,13\labRab3_3\bin\Debug\labRab3_3.exe.config
+C:\Users\Admin\Downloads\12,13\labRab3_3\bin\Debug\labRab3_3.exe
+C:\Users\Admin\Downloads\12,13\labRab3_3\bin\Debug\labRab3_3.pdb
+C:\Users\Admin\Downloads\12,13\labRab3_3\obj\Debug\labRab3_3.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\12,13\labRab3_3\obj\Debug\labRab3_3.AddBook.resources
+C:\Users\Admin\Downloads\12,13\labRab3_3\obj\Debug\labRab3_3.AllBooks.resources
+C:\Users\Admin\Downloads\12,13\labRab3_3\obj\Debug\labRab3_3.Find1.resources
+C:\Users\Admin\Downloads\12,13\labRab3_3\obj\Debug\labRab3_3.Find2.resources
+C:\Users\Admin\Downloads\12,13\labRab3_3\obj\Debug\labRab3_3.MainForm.resources
+C:\Users\Admin\Downloads\12,13\labRab3_3\obj\Debug\labRab3_3.Properties.Resources.resources
+C:\Users\Admin\Downloads\12,13\labRab3_3\obj\Debug\labRab3_3.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\12,13\labRab3_3\obj\Debug\labRab3_3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\12,13\labRab3_3\obj\Debug\labRab3_3.exe
+C:\Users\Admin\Downloads\12,13\labRab3_3\obj\Debug\labRab3_3.pdb

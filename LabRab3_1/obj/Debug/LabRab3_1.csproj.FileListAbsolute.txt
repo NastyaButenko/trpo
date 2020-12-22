@@ -1,0 +1,22 @@
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\LabRab3_1\bin\Debug\LabRab3_1.exe.config
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\LabRab3_1\bin\Debug\LabRab3_1.exe
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\LabRab3_1\bin\Debug\LabRab3_1.pdb
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\LabRab3_1\obj\Debug\LabRab3_1.csprojAssemblyReference.cache
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\LabRab3_1\obj\Debug\LabRab3_1.MainForm.resources
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\LabRab3_1\obj\Debug\LabRab3_1.PreviewForm.resources
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\LabRab3_1\obj\Debug\LabRab3_1.Properties.Resources.resources
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\LabRab3_1\obj\Debug\LabRab3_1.csproj.GenerateResource.cache
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\LabRab3_1\obj\Debug\LabRab3_1.csproj.CoreCompileInputs.cache
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\LabRab3_1\obj\Debug\LabRab3_1.exe
+C:\Users\Сеня\Desktop\Практика ТРПО\задания 12,13\задание 1\LabRab3_1\obj\Debug\LabRab3_1.pdb
+C:\Users\Admin\Downloads\12,13\LabRab3_1\bin\Debug\LabRab3_1.exe.config
+C:\Users\Admin\Downloads\12,13\LabRab3_1\bin\Debug\LabRab3_1.exe
+C:\Users\Admin\Downloads\12,13\LabRab3_1\bin\Debug\LabRab3_1.pdb
+C:\Users\Admin\Downloads\12,13\LabRab3_1\obj\Debug\LabRab3_1.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\12,13\LabRab3_1\obj\Debug\LabRab3_1.MainForm.resources
+C:\Users\Admin\Downloads\12,13\LabRab3_1\obj\Debug\LabRab3_1.PreviewForm.resources
+C:\Users\Admin\Downloads\12,13\LabRab3_1\obj\Debug\LabRab3_1.Properties.Resources.resources
+C:\Users\Admin\Downloads\12,13\LabRab3_1\obj\Debug\LabRab3_1.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\12,13\LabRab3_1\obj\Debug\LabRab3_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\12,13\LabRab3_1\obj\Debug\LabRab3_1.exe
+C:\Users\Admin\Downloads\12,13\LabRab3_1\obj\Debug\LabRab3_1.pdb

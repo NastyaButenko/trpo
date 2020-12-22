@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\курсач\21-22\Laba3_2\bin\Debug\Laba3_2.exe.config
+C:\Users\Admin\Desktop\курсач\21-22\Laba3_2\bin\Debug\Laba3_2.exe
+C:\Users\Admin\Desktop\курсач\21-22\Laba3_2\bin\Debug\Laba3_2.pdb
+C:\Users\Admin\Desktop\курсач\21-22\Laba3_2\obj\Debug\2primer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\курсач\21-22\Laba3_2\obj\Debug\Laba3_2.CalculateForm.resources
+C:\Users\Admin\Desktop\курсач\21-22\Laba3_2\obj\Debug\Laba3_2.ConstructForm.resources
+C:\Users\Admin\Desktop\курсач\21-22\Laba3_2\obj\Debug\Laba3_2.Properties.Resources.resources
+C:\Users\Admin\Desktop\курсач\21-22\Laba3_2\obj\Debug\Laba3_2.MainForm.resources
+C:\Users\Admin\Desktop\курсач\21-22\Laba3_2\obj\Debug\2primer.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\курсач\21-22\Laba3_2\obj\Debug\2primer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\курсач\21-22\Laba3_2\obj\Debug\Laba3_2.exe
+C:\Users\Admin\Desktop\курсач\21-22\Laba3_2\obj\Debug\Laba3_2.pdb
