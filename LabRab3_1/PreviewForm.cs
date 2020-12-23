@@ -61,5 +61,15 @@ namespace LabRab3_1
         {
 
         }
+
+        private void toolTip1_Popup(object sender, PopupEventArgs e)
+        {
+
+        }
+
+        private void PreviewForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
